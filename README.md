@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  ✨ hi there! ✨
+  ✨ hi, im nira! ✨
 </h1>
 <div align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnirapatelm%2F" alt="LinkedIn Badge"/>
