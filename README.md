@@ -22,6 +22,13 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/C++-lavender">
   </div>
 </div>
+
+<br />
+
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nirapatelm&theme=rose-pine" alt="GitHub Streak"/></a>
+</div>
+
 <!--
 **nirapatelm/nirapatelm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
