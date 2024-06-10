@@ -20,6 +20,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/React.js-lavender">
     <img alt="Static Badge" src="https://img.shields.io/badge/Python-lightpink">
     <img alt="Static Badge" src="https://img.shields.io/badge/C++-lavender">
+    <img alt="Static Badge" src="https://img.shields.io/badge/C-lightpink">
   </div>
 </div>
 
